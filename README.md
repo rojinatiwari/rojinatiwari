@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rojina Tiwari</h1>
+<a href="https://rojinatiwari.github.io/">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=black&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Rojina+Tiwari.">
+  </a>
 <h3 align="center">A passionate developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rojinatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="rojinatiwari" /> </p>
