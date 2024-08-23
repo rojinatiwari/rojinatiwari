@@ -1,7 +1,11 @@
- 
+<h3 align="center">
+  Discover Rojina Tiwari's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3> 
 <a href="https://rojinatiwari.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=black&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Rojina+Tiwari.">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=black&size=21&center=true&vCenter=true&width=440&height=45&lines=A+learner%2C+maker+and+designer.;A+Software+Engineer.">
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ 
   </a>
 <h3 align="center">A passionate developer from Nepal</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rojinatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="rojinatiwari" /> </p>
