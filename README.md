@@ -1,5 +1,5 @@
 <h3 align="center">
-  Discover Rojina Tiwari's profile!
+  Welcome to  Rojina Tiwari's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 <h3 align="center">
