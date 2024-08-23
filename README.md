@@ -1,8 +1,12 @@
  
-<a href="https://rojinatiwari.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=black&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+👋+I+am+Rojina+Tiwari.">
-  </a>
-<h3 align="center">A passionate developer from Nepal</h3>
+<h3 align="center">
+  Welcome to Rojina Tiwari's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/rojinatiwari"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=Consistency +for%2C+me+is+everything.;A+passionate+developer+from+Nepal."></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rojinatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="rojinatiwari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rojinatiwari" alt="rojinatiwari" /></a> </p>
