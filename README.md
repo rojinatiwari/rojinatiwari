@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 <h3 align="center">
-<a href="https://rojinatiwari.github.io/"><img src="https://readme-typing-svg.herokuapp.com/?color=black&size=21&center=true&vCenter=true&width=440&height=45&lines=A+learner%2C+maker+and+designer.;A+Software+Engineer.">
+<a href="https://rojinatiwari.github.io/"><img src="https://readme-typing-svg.herokuapp.com/?color=black&size=21&center=true&vCenter=true&width=440&height=45&lines=A+passionate+developer+from+Nepal.;Consistency+for+me+is+everything.">
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </a>
   </h3> 
