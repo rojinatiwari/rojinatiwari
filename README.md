@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **rojinatiwari17@gmail.com**
 
