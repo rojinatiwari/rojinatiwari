@@ -12,9 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rojinatiwari" alt="rojinatiwari" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **Reactjs**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
 - 📫 How to reach me **rojinatiwari17@gmail.com**
 
